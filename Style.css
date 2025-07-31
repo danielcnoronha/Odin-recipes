@@ -2,10 +2,16 @@
    font-family: "arial", sans-serif;
 }
 
-.Main-heading {
+.main.heading {
     font-size: 50px;
 
     margin-top: auto;
     padding-top: 20px;
-    background-color: lightgreen;
+    background-color: pink
+}
+
+
+.recipes {
+    font-size: 25px;
+    padding: 20px;
 }
