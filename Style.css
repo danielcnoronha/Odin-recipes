@@ -1,0 +1,11 @@
+*  {
+   font-family: "arial", sans-serif;
+}
+
+.Main-heading {
+    font-size: 50px;
+
+    margin-top: auto;
+    padding-top: 20px;
+    background-color: lightgreen;
+}
